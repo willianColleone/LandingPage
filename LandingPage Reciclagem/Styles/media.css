@@ -1,0 +1,23 @@
+@media screen and (max-width: 760px){
+    header{
+        flex-direction: column;
+    }
+    main{
+        flex-direction: column;
+    }
+    h2{
+        font-size: 38px;
+    }
+    form{
+        margin: auto;
+        width: 70%;
+    }
+    ul{
+        text-align: center;
+    }
+    #imagem{
+        margin-top: 10px;
+        width: 540px;
+        height: 400px;
+    }
+}
